@@ -1,6 +1,6 @@
 <h1 align="center">Hi there👋, I'm Sahil Rokade</h1>
 <h3 align="center">A passionate AI Enthusiast from India</h3>
-Welcome to my GitHub profile! I'm a passionate tech enthusiast currently diving deep into Artificial Intelligence and Machine Learning. With a diploma in Computer Science and Engineering, I'm now pursuing a **B.Tech in Artificial Intelligence**, honing my skills and building innovative projects.
+Welcome to my GitHub profile! I'm a passionate tech enthusiast currently diving deep into Artificial Intelligence and Machine Learning. With a diploma in Computer Science and Engineering, Done **B.Tech in Artificial Intelligence**, honing my skills and building innovative projects.
 
 ---
 
